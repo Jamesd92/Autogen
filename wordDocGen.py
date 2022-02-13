@@ -1,6 +1,5 @@
 from docxtpl import DocxTemplate
 from docx import Document
-
 doc = DocxTemplate("testDoc.docx")
 
 customerNames = []
