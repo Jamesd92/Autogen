@@ -2,6 +2,7 @@
 ## Introduction
 This code is used to auto generate templated documenation to quickly and repeatedly instantiate functional specification documents. This code was built with the assistated support from T.Newbury.
 
+
 ## Langauges
 VBA
 SQL
